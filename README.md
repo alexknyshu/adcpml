@@ -1,4 +1,4 @@
-# A clustering/anomaly detection machine learning algorithm for near-shore Acoustic Doppler Current Profiler (ADCP) data processing
+# A clustering/anomaly detection machine learning algorithm for near-shore ADCP data processing
 Alexander Knysh, [github repository](https://github.com/alexanderknysh/adcpml)
 
 ## Description 
